@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: youtube-telegram-bot
+    env: node
+    buildCommand: npm install && pip install -r requirements.txt
+    startCommand: node bot_hybrid.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+
