@@ -1,0 +1,183 @@
+{
+  "totalUsers": [
+    6875606208
+  ],
+  "totalCommands": 32,
+  "commandsByType": {
+    "start": 0,
+    "search": 0,
+    "download": 0,
+    "audio": 0,
+    "info": 0,
+    "trending": 0,
+    "help": 0
+  },
+  "userActivity": {
+    "6875606208": {
+      "firstSeen": "2025-11-07T17:45:36.680Z",
+      "lastSeen": "2025-11-08T01:54:44.278Z",
+      "commandCount": 32,
+      "commands": [
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T17:45:36.680Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T17:51:20.648Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T17:51:24.230Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T17:51:26.016Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T17:54:11.358Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T17:54:59.382Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T17:55:24.622Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T17:59:19.463Z"
+        },
+        {
+          "command": "search",
+          "timestamp": "2025-11-07T18:01:14.569Z"
+        },
+        {
+          "command": "search",
+          "timestamp": "2025-11-07T18:01:14.569Z"
+        },
+        {
+          "command": "search",
+          "timestamp": "2025-11-07T18:07:49.183Z"
+        },
+        {
+          "command": "search",
+          "timestamp": "2025-11-07T18:07:49.183Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T18:12:20.223Z"
+        },
+        {
+          "command": "help",
+          "timestamp": "2025-11-07T18:12:28.855Z"
+        },
+        {
+          "command": "info",
+          "timestamp": "2025-11-07T18:13:31.594Z"
+        },
+        {
+          "command": "thumbnail",
+          "timestamp": "2025-11-07T18:13:59.525Z"
+        },
+        {
+          "command": "search",
+          "timestamp": "2025-11-07T18:16:40.035Z"
+        },
+        {
+          "command": "search",
+          "timestamp": "2025-11-07T18:16:40.035Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T18:17:35.396Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T18:26:21.975Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T18:26:38.869Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T18:29:16.057Z"
+        },
+        {
+          "command": "trending",
+          "timestamp": "2025-11-07T18:29:30.647Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T18:35:14.702Z"
+        },
+        {
+          "command": "language",
+          "timestamp": "2025-11-07T18:36:17.243Z"
+        },
+        {
+          "command": "language",
+          "timestamp": "2025-11-07T18:36:23.643Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T18:38:26.415Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T18:38:36.185Z"
+        },
+        {
+          "command": "start",
+          "timestamp": "2025-11-07T18:38:42.186Z"
+        },
+        {
+          "command": "search",
+          "timestamp": "2025-11-08T01:53:57.208Z"
+        },
+        {
+          "command": "search",
+          "timestamp": "2025-11-08T01:53:57.209Z"
+        },
+        {
+          "command": "trending",
+          "timestamp": "2025-11-08T01:54:44.278Z"
+        }
+      ]
+    }
+  },
+  "bannedUsers": [
+    "6875606208"
+  ],
+  "maintenanceMode": false,
+  "botStartTime": "2025-11-07T17:45:10.840Z",
+  "offerUrl": "https://otieu.com/4/10156674",
+  "userFavorites": {
+    "6875606208": [
+      {
+        "videoId": "YLOSg3nv9Kc",
+        "title": "এটা আবার কী বানালাম 😅😱 #ফানুশ #fanush #dewalispecial #shorts #bigfanush #handmakingfanush",
+        "url": "https://www.youtube.com/watch?v=YLOSg3nv9Kc",
+        "addedAt": "2025-11-07T18:17:08.427Z"
+      }
+    ]
+  },
+  "downloadHistory": {
+    "6875606208": [
+      {
+        "videoId": "C_bsB5-huRc",
+        "title": "18 yoshimda edi REMIX 2024 | Trending Music 2024 | Remix By Xon-Saroy Record's",
+        "url": "https://www.youtube.com/watch?v=C_bsB5-huRc",
+        "type": "audio",
+        "quality": null,
+        "downloadedAt": "2025-11-07T18:28:54.900Z"
+      }
+    ]
+  },
+  "userLanguages": {
+    "6875606208": "bn"
+  }
+}
